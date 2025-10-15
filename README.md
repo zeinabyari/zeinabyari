@@ -3,7 +3,7 @@
 <!-- https://github.com/kyechan99/capsule-render?tab=readme-ov-file#rect    here I used the header -->
 
 <h1 align="center">
- If You Nedd to TALK to ME!💬
+ 💬 You Can Find ME IN:
 </h1>
 
 <p align="center">
@@ -22,21 +22,27 @@
 </p>
 
 
+### Hey, I’m Zeinab! 👋
+
+🧠 Backend developer since **2019**  
+🛠️ **Laravel** & **Node.js** (professional)  
+☕ **Java (Spring Boot)** | 🐍 **Django/Python** | 🐹 **Go** (a little)
+
+**What I focus on**  
+⚙️ Clean architecture • 🔌 Scalable APIs • 📈 Performance • ✅ Reliability
+
+**Databases & Infra**  
+🗄️ **MySQL** • 🐘 **PostgreSQL** • 🍃 **MongoDB** • 🏛️ **Oracle**  
+⚡ **Redis** (caching) • 🐇 **RabbitMQ** (queues)
+
+**Mindset**  
+📚 Continuous learning • 🔁 Ship → Measure → Improve • 🧪 Pragmatic testing  
+I love backend—and I never stop learning new things. 🚀
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeinabyari&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabyari&layout=compact)
 
-<!--
-**zeinabyari/zeinabyari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
