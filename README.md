@@ -1,13 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hey%20Everyone!🕹️&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hey%20there👩‍💻&fontSize=90)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20Everyone!🕹️!&height=100&section=header"/>
-</p>
 <!-- https://github.com/kyechan99/capsule-render?tab=readme-ov-file#rect    here I used the header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 
 <h1 align="center">
  If You Nedd to TALK to ME!💬
@@ -23,10 +16,12 @@
 <a href="https://www.instagram.com/zedd__dev">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Instagram-1024.png"/>
 </a>
+  <a href="https://www.youtube.com/@zedd_dev">
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/157/social-media_youtube-1024.png"/>
+</a>
 </p>
 
 
-## Hi there 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeinabyari&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabyari&layout=compact)
