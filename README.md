@@ -111,9 +111,9 @@ I love backend — and I never stop learning new things. 🚀
 </div>
 
 <!-- WakaTime -->
-<h3 align="center">⏱️ Weekly Development Breakdown</h3>
+<!-- <h3 align="center">⏱️ Weekly Development Breakdown</h3>
 
 <figure><embed src="https://wakatime.com/share/@9ace8ebe-cfe4-407b-ba88-952e9811893c/ebd80d17-a5e8-4cba-b4f1-8ace4437ea2c.svg"></embed></figure>
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> -->
