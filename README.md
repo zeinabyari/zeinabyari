@@ -6,24 +6,27 @@
 <div align="center">
 
 <!-- Social -->
-<h1>💬 You Can Find Me In</h1>
+<h3>💬 You Can Find Me In</h3>
 
 <p>
   <a href="https://t.me/zedd_dev" title="Telegram">
-    <img height="48" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_telegram-1024.png" alt="Telegram"/>
+    <img height="40" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_telegram-1024.png" alt="Telegram"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/zeinab-yari/" title="LinkedIn">
-    <img height="48" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
+    <img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/zedd__dev" title="Instagram">
-    <img height="48" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Instagram-1024.png" alt="Instagram"/>
+    <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Instagram-1024.png" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@zedd_dev" title="YouTube">
-    <img height="48" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/157/social-media_youtube-1024.png" alt="YouTube"/>
+    <img height="40" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/157/social-media_youtube-1024.png" alt="YouTube"/>
   </a>
 </p>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #888, transparent);" />
+---
 
 <!-- About -->
 <h3>Hey, I’m Zeinab! 👋</h3>
@@ -39,7 +42,7 @@
 ⚙️ Clean architecture • 🔌 Scalable APIs • 📈 Performance • ✅ Reliability
 </p>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #888, transparent);" />
+---
 
 <!-- Databases & Infra -->
 <h3>🗄️ Databases & Infra</h3>
@@ -55,63 +58,67 @@
 I love backend — and I never stop learning new things. 🚀
 </p>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #888, transparent);" />
+---
 
 <!-- Stats -->
 <h3>📊 GitHub Stats</h3>
 
 <p>
   <a href="https://github.com/zeinabyari">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeinabyari&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=zeinabyari&show_icons=true&hide_border=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/zeinabyari">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabyari&layout=compact&hide_border=true" alt="Top Languages"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabyari&layout=compact&hide_border=true" alt="Top Languages"/>
   </a>
 </p>
 
-</div>
+<!-- Extras: streak + trophies -->
+<p>
+  <img src="https://streak-stats.demolab.com/?user=zeinabyari&hide_border=true" height="160" alt="Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zeinabyari&margin-w=8&no-bg=true&no-frame=true" height="160" alt="Trophies"/>
+</p>
 
+<!-- Activity graph -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeinabyari&hide_border=true&theme=github-compact" alt="Activity Graph"/>
+</p>
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"><br/>
+<!-- Badges (tech stack) -->
+<h3>🧰 Tech Stack</h3>
+
+<p>
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"><br/>
   <!-- DBs & Infra -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
 </p>
 
- <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zeinabyari&hide_border=true" height="165"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=zeinabyari&margin-w=8&no-bg=true&no-frame=true" height="165"/>
-</div>
+---
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeinabyari&hide_border=true&theme=github-compact" />
-</p>
-
-
-<p align="center">
+<!-- View Counter + Snake -->
+<p>
   <img src="https://komarev.com/ghpvc/?username=zeinabyari&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
-
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
+</div>
 
+<!-- WakaTime (auto-updated) -->
 ### ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
