@@ -70,3 +70,23 @@ I love backend — and I never stop learning new things. 🚀
 </p>
 
 </div>
+
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"><br/>
+  <!-- DBs & Infra -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+</p>
