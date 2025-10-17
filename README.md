@@ -90,3 +90,23 @@ I love backend — and I never stop learning new things. 🚀
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 </p>
+
+ <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=zeinabyari&hide_border=true" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zeinabyari&margin-w=8&no-bg=true&no-frame=true" height="165"/>
+</div>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeinabyari&hide_border=true&theme=github-compact" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeinabyari&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
