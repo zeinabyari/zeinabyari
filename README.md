@@ -110,3 +110,8 @@ I love backend — and I never stop learning new things. 🚀
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+
+
+### ⏱️ Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
