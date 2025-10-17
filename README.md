@@ -73,7 +73,7 @@ I love backend — and I never stop learning new things. 🚀
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=zeinabyari&hide_border=true" height="160" alt="Streak"/>
+  <!-- <img src="https://streak-stats.demolab.com/?user=zeinabyari&hide_border=true" height="160" alt="Streak"/> -->
   <img src="https://github-profile-trophy.vercel.app/?username=zeinabyari&margin-w=8&no-bg=true&no-frame=true" height="160" alt="Trophies"/>
 </p>
 
