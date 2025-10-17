@@ -103,14 +103,6 @@ I love backend — and I never stop learning new things. 🚀
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
 </p>
 
----
-
-<!-- Views & Snake -->
-<h3>👀 Visitors & Contributions</h3>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=zeinabyari&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-</p>
 
 <p>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
