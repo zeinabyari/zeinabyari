@@ -7,7 +7,6 @@
 
 <!-- Social -->
 <h3>💬 You Can Find Me In</h3>
-<p align="center">─── ✦ ───</p>
 
 <p>
   <a href="https://t.me/zedd_dev" title="Telegram">
@@ -31,7 +30,6 @@
 
 <!-- About -->
 <h3>👋 About Me</h3>
-<p align="center">─── ✦ ───</p>
 
 <p>
 🧠 Backend developer since <b>2019</b><br/>
@@ -48,7 +46,6 @@
 
 <!-- Databases & Infra -->
 <h3>🗄️ Databases & Infra</h3>
-<p align="center">─── ✦ ───</p>
 
 <p>
 🗃️ <b>MySQL</b> • 🐘 <b>PostgreSQL</b> • 🍃 <b>MongoDB</b> • 🏛️ <b>Oracle</b><br/>
@@ -65,7 +62,6 @@ I love backend — and I never stop learning new things. 🚀
 
 <!-- Stats -->
 <h3>📊 GitHub Stats</h3>
-<p align="center">─── ✦ ───</p>
 
 <p>
   <a href="https://github.com/zeinabyari">
@@ -89,7 +85,6 @@ I love backend — and I never stop learning new things. 🚀
 
 <!-- Tech Stack -->
 <h3>🧰 Tech Stack</h3>
-<p align="center">─── ✦ ───</p>
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"> 
@@ -112,7 +107,6 @@ I love backend — and I never stop learning new things. 🚀
 
 <!-- Views & Snake -->
 <h3>👀 Visitors & Contributions</h3>
-<p align="center">─── ✦ ───</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=zeinabyari&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
@@ -126,7 +120,6 @@ I love backend — and I never stop learning new things. 🚀
 
 <!-- WakaTime -->
 <h3 align="center">⏱️ Weekly Development Breakdown</h3>
-<p align="center">─── ✦ ───</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
