@@ -7,6 +7,7 @@
 
 <!-- Social -->
 <h3>💬 You Can Find Me In</h3>
+<p align="center">─── ✦ ───</p>
 
 <p>
   <a href="https://t.me/zedd_dev" title="Telegram">
@@ -29,7 +30,8 @@
 ---
 
 <!-- About -->
-<h3>Hey, I’m Zeinab! 👋</h3>
+<h3>👋 About Me</h3>
+<p align="center">─── ✦ ───</p>
 
 <p>
 🧠 Backend developer since <b>2019</b><br/>
@@ -46,6 +48,7 @@
 
 <!-- Databases & Infra -->
 <h3>🗄️ Databases & Infra</h3>
+<p align="center">─── ✦ ───</p>
 
 <p>
 🗃️ <b>MySQL</b> • 🐘 <b>PostgreSQL</b> • 🍃 <b>MongoDB</b> • 🏛️ <b>Oracle</b><br/>
@@ -62,6 +65,7 @@ I love backend — and I never stop learning new things. 🚀
 
 <!-- Stats -->
 <h3>📊 GitHub Stats</h3>
+<p align="center">─── ✦ ───</p>
 
 <p>
   <a href="https://github.com/zeinabyari">
@@ -72,22 +76,22 @@ I love backend — and I never stop learning new things. 🚀
   </a>
 </p>
 
-<!-- Extras: streak + trophies -->
 <p>
   <img src="https://streak-stats.demolab.com/?user=zeinabyari&hide_border=true" height="160" alt="Streak"/>
   <img src="https://github-profile-trophy.vercel.app/?username=zeinabyari&margin-w=8&no-bg=true&no-frame=true" height="160" alt="Trophies"/>
 </p>
 
-<!-- Activity graph -->
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeinabyari&hide_border=true&theme=github-compact" alt="Activity Graph"/>
 </p>
 
-<!-- Badges (tech stack) -->
+---
+
+<!-- Tech Stack -->
 <h3>🧰 Tech Stack</h3>
+<p align="center">─── ✦ ───</p>
 
 <p>
-  <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"> 
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
@@ -95,7 +99,6 @@ I love backend — and I never stop learning new things. 🚀
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"><br/>
-  <!-- DBs & Infra -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
@@ -107,7 +110,10 @@ I love backend — and I never stop learning new things. 🚀
 
 ---
 
-<!-- View Counter + Snake -->
+<!-- Views & Snake -->
+<h3>👀 Visitors & Contributions</h3>
+<p align="center">─── ✦ ───</p>
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=zeinabyari&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
@@ -118,7 +124,9 @@ I love backend — and I never stop learning new things. 🚀
 
 </div>
 
-<!-- WakaTime (auto-updated) -->
-### ⏱️ Weekly Development Breakdown
+<!-- WakaTime -->
+<h3 align="center">⏱️ Weekly Development Breakdown</h3>
+<p align="center">─── ✦ ───</p>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
